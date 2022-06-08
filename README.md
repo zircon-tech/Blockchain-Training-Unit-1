@@ -30,10 +30,10 @@ Con todo el conocimiento que tienes ahora, crearás una cadena de bloques.
 
 #### Requisitos
 
--Puedes usar el lenguaje de programación que quieras.
--Actualiza este REAME con una breve explicación del proyecto.
--Comenta tu código para que tus compañeros de Zircon puedan entenderlo.
--Utiliza bibliotecas externas si quieres.
+- Puedes usar el lenguaje de programación que quieras.
+- Actualiza este README con una breve explicación del proyecto.
+- Comenta tu código para que tus compañeros de Zircon puedan entenderlo.
+- Utiliza bibliotecas externas si quieres.
 
 ### Lista de recursos
 
